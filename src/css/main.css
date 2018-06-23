@@ -4,6 +4,15 @@
   padding: 1.2em;
 }
 
+.display-wrapper {
+  float: left;
+  padding: 1.2em;
+}
+
+.fix-float {
+  clear: both;
+}
+
 .wrapper {
   align-content: center;
 }
