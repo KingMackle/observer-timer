@@ -1,0 +1,9 @@
+.display {
+  background-color: aliceblue;
+  font-size: 2em;
+  padding: 1.2em;
+}
+
+.wrapper {
+  align-content: center;
+}
